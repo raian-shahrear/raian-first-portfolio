@@ -112,21 +112,22 @@ Last Section
 .container-2{
   width: 90%;
   margin: 0 auto;
- }
- .border-area-left{
-  border-left: 7px solid #FF6347;
-}
-.border-area-right{
-  border-left: 7px solid #0000FF;
 }
 .last-content{
   width: 44%;
   margin-bottom: 150px;
   padding: 30px 15px 130px 30px;
   box-shadow: 5px 5px 20px #696969;
+  border-radius: 5px;
 }
 .last-content h3{
   margin: 25px 0 15px;
+}
+#border-area-left{
+  border-left: 7px solid #FF6347;
+}
+#border-area-right{
+  border-left: 7px solid #0000FF;
 }
 /*==========END==========*/
 
