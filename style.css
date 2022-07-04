@@ -9,13 +9,14 @@ Common CSS
 body{
   font-family: 'Poppins', sans-serif;
 }
+h1, h2, h3, h4, h5, h6{
+  text-transform: capitalize;
+}
 h1{
   font-size: 50px;
-  text-transform: capitalize;
 }
 h2{
   font-size: 40px;
-  text-transform: capitalize;
 }
 p{
   text-align: justify;
@@ -126,7 +127,6 @@ Last Section
 }
 .last-content h3{
   margin: 25px 0 15px;
-  text-transform: capitalize;
 }
 /*==========END==========*/
 
