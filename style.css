@@ -120,7 +120,7 @@ Last Section
 }
 .last-content{
   width: 44%;
-  margin-bottom: 100px;
+  margin-bottom: 150px;
   padding: 30px 15px 130px 30px;
   box-shadow: 5px 5px 20px #696969;
 }
@@ -128,3 +128,14 @@ Last Section
   margin: 25px 0 15px;
   text-transform: capitalize;
 }
+/*==========END==========*/
+
+
+/*============
+Footer Section
+============*/
+.footer-area p{
+  padding: 20px 0;
+  text-align: center;
+}
+/*==========END==========*/
